@@ -1,0 +1,15 @@
+---
+layout: post
+title: TITLE
+date: 2050-09-22 00:00:00 +0300
+description: SHORTDESCRIPTION
+img: IMG.png # Add image post (optional)
+tags: [simulator, machine-learning] # add tag
+---
+
+TEXT
+
+### Links
+ 
+[link1]:  http://link1
+[link1]:  http://link1

@@ -1,0 +1,31 @@
+---
+layout: post
+title: python-esmini library
+date: 2021-07-01 00:00:00 +0300
+description: python-esmini is a python wrapper for Environment Simulator Minimalistic (esmini).
+img: screenshot.png # Add image post (optional)
+tags: [simulator, machine-learning] # add tag
+---
+
+python-esmini is a python wrapper for Environment Simulator Minimalistic (esmini).
+
+### Usage
+
+Example python code:
+
+```python
+import pyplayerbase
+import time
+import pyscenarioengine
+
+player = pyplayerbase.ScenarioPlayer(["python-esmini", "--window",  "60", "60", "800", "400",  "--osc", "./esmini/resources/xosc/cut-in.xosc"])
+while not player.IsQuitRequested():
+    player.Frame(1)
+    time.sleep(1)
+```
+
+![https://github.com/ebadi/python-esmini](/assets/img/screenshot.png)
+
+### Links
+ 
+[python-esmini github repositoy](https://github.com/ebadi/python-esmini)

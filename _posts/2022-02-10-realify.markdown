@@ -1,0 +1,19 @@
+---
+layout: post
+title: Realify
+date: 2022-03-01 00:00:00 +0300
+description: Realify generates realistic looking license plate from outlines ...
+img: sample.png # Add image post (optional)
+tags: [simulator, machine-learning] # add tag
+---
+
+Realify generates realistic looking license plate from licese plate outlines.
+
+A short video demo of **realify**:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D-7qlTAg3Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Links
+ 
+[Realify github repositoy](https://github.com/ebadi/realify)
