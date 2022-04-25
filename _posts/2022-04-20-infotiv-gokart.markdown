@@ -15,7 +15,7 @@ The goal of the project is to add a driver assistance system capable of performi
 
 ![Back Description](/assets/img/backdescription.png)
 
-![Front Description](/assets/img/frontdescription.pngg)
+![Front Description](/assets/img/frontdescription.png)
 
 ![Mood Light Holder](/assets/img/moodlightholder.png)
 
