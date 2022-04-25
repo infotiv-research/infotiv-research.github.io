@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ergo, SMIRK is Safe: A Safety Case for a Machine Learning Component in a Pedestrian Automatic Emergency Brake System
+title: Ergo, SMIRK is Safe, A Safety Case for a Machine Learning Component in a Pedestrian Automatic Emergency Brake System
 date: 2022-04-16 00:00:00 +0300
-description: Integration of Machine Learning (ML) components in critical applications introduces novel challenges for software certification and verification. New safety standards and technical guidelines are under development to support the safety of ML-based systems ...
+description: Integration of Machine Learning components in critical applications introduces novel challenges for software certification and verification
 img: smirk-paper.png # Add image post (optional)
 tags: [simulator, machine-learning] # add tag
 ---
