@@ -9,5 +9,12 @@ tags: [simulator, machine-learning] # add tag
 
 Verification and Validation of OpenPilot driver assistance system within CARLA and DonkeyCar simulators:
 
+DonkeyCar simulator integration:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jod7CFAq-wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Carla simulator integration:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onnVoFoYCOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
