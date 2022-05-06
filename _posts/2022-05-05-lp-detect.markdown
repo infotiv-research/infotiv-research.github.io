@@ -1,0 +1,20 @@
+---
+layout: post
+title: Verification and Validation of machine learning based License plate detection algorithms
+date: 2022-05-05 00:00:00 +0300
+description: Verification and Validation of machine learning based License plate detection algorithms
+img: lp-detect.png # Add image post (optional)
+tags: [simulator, machine-learning] # add tag
+---
+
+Using CARLA to generate sythentic images for Verification and Validation of machine learning based license plate detection algorithms :
+
+DonkeyCar simulator integration (part 1):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GERGhiPWQSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+CAMEA License Plate detection algorithms (part 2):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pZp023a5IlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
