@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Master’s Thesis Proposal: Verification and Validation using Simulator
+title: Master Thesis Proposal -Verification and Validation using Simulator
 date: 2021-11-04 00:00:00 +0300
 description: To save time and reduce the costs, the Verification and Validation of ADS (Autonomous Driving System) are mostly done in realistic simulators to capture potential hazards before these components are tested in the real worlds testing tracks.  
 img: carla-akareplatsen.png # Add image post (optional)

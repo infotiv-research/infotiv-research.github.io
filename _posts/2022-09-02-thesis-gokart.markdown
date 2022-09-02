@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Master’s Thesis Proposal: Autonomous Platform Machine Learning Module
+title: Master Thesis Proposal- Autonomous Platform Machine Learning Module
 date: 2022-09-02 00:00:00 +0300
-description: 
+description: To increase the knowledge and expertise within the evolving automotive industry, Infotiv AB developed the open and educational autonomous platform. The goal of the platform is to have an autonomous Go-Kart that progresses research and development in the automotive industry.
 img: openpilot.jpg
 tags: [machine-learning, python, openpilot, gokart, Autonomous]
 ---
