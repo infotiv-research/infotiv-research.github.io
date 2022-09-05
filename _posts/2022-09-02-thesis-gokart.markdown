@@ -26,7 +26,8 @@ Keywords: Autonomous Platform Machine Learning Module
 ### Potential Research questions
 
  - Is it possible to partial training in the simulator and do fine-tuning in the real (physical) environment?
- - How much introducing extra sensors improve the quality of the autonomous driving
+ - The effect of introducing new sensors and sensor fusion on driving quality
+ - Use of digital twins for training and testing
 
 The above research questions are examples, and the proposal will be tailored to the specific candidates
 
