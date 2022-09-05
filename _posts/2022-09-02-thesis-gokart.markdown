@@ -17,6 +17,7 @@ Currently, the system is designed in three modules, an Automotive platform that 
 
 
 The purpose of the study is to see the possibility of
+
 	- Introducing new functionalities to the ML autonomous drive module (Traffic Sign, Traffic light Detection) to the autonomous platform
 	- Improving the driver performance by involving other sensors (LIDAR, Ultrasonic, etc) in the autonomous platform
 	- Introducing Driver Monitoring Systems (DMS) to the autonomous platform
@@ -36,10 +37,12 @@ Keywords: Autonomous Platform Machine Learning Module
 The above research questions are examples, and the proposal will be tailored to the specific candidates
 
 ### Recommended skills/programme
+
  - Skills: C/C++, Python, Linux
  - Programme: Computer Science/ Automation and Mechatronics
 
 ### Other information
+
  - Number of students: 1-2
  - The thesis project will be carried out as part of the work within the research projects Infotiv are involved in. Other thesis projects on similar projects will be held to provide a collaborative environment. Infotiv will provide supervision both in terms of technical aspects as working environment and teamwork.
  - How to apply: Application via email to the person below. In the email:
