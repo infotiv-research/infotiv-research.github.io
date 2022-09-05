@@ -18,10 +18,10 @@ Currently, the system is designed in three modules, an Automotive platform that 
 
 The purpose of the study is to see the possibility of
 
-	- Introducing new functionalities to the ML autonomous drive module (Traffic Sign, Traffic light Detection) to the autonomous platform
-	- Improving the driver performance by involving other sensors (LIDAR, Ultrasonic, etc) in the autonomous platform
-	- Introducing Driver Monitoring Systems (DMS) to the autonomous platform
-	- Verification and Validation of the platform using simulator
+ - Introducing new functionalities to the ML autonomous drive module (Traffic Sign, Traffic light Detection) to the autonomous platform
+ - Improving the driver performance by involving other sensors (LIDAR, Ultrasonic, etc) in the autonomous platform
+ - Introducing Driver Monitoring Systems (DMS) to the autonomous platform
+ - Verification and Validation of the platform using simulator
 
 Keywords: Autonomous Platform Machine Learning Module
 
