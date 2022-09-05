@@ -20,6 +20,9 @@ The purpose of the study is to see the possibility of
 
 Keywords: Autonomous Platform Machine Learning Module
 
+![GoKart autonomous platform](/assets/img/gokart-ml.png.png)
+
+
 ### Potential Research questions
 
  - Is it possible to partial training in the simulator and do fine-tuning in the real (physical) environment?
