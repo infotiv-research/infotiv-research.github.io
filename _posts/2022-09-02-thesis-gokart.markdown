@@ -19,9 +19,9 @@ Currently, the system is designed in three modules, an Automotive platform that 
 The purpose of the study is to see the possibility of
 
  - Introducing new functionalities to the ML autonomous drive module (Traffic Sign, Traffic light Detection) to the autonomous platform
- - Improving the driver performance by involving other sensors (LIDAR, Ultrasonic, etc) in the autonomous platform
+ - Improving the driver performance by involving other sensors (LIDAR, Ultrasonic, etc.) in the autonomous platform
  - Introducing Driver Monitoring Systems (DMS) to the autonomous platform
- - Verification and Validation of the platform using simulator
+ - Verification and Validation of the platform using simulator/digital-twin
 
 Keywords: Autonomous Platform Machine Learning Module
 
@@ -30,7 +30,7 @@ Keywords: Autonomous Platform Machine Learning Module
 
 ### Potential Research questions
 
- - Is it possible to partial training in the simulator and do fine-tuning in the real (physical) environment?
+ - Investigate the possibility of to partial training in the simulator and fine-tuning in the real (physical) environment
  - The effect of introducing new sensors and sensor fusion on driving quality
  - Use of digital twins for training and testing
 
