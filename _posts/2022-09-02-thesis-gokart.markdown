@@ -20,7 +20,7 @@ The purpose of the study is to see the possibility of
 
 Keywords: Autonomous Platform Machine Learning Module
 
-![GoKart autonomous platform](/assets/img/gokart-ml.png.png)
+![GoKart autonomous platform](/assets/img/gokart-ml.png)
 
 
 ### Potential Research questions
