@@ -36,7 +36,7 @@ Keywords: Autonomous Platform Machine Learning Module
 The above research questions are examples, and the proposal will be tailored to the specific candidates
 
 ### Recommended skills/programme
- - Skills: C++, Python, ROS
+ - Skills: C/C++, Python, Linux
  - Programme: Computer Science/ Automation and Mechatronics
 
 ### Other information
