@@ -10,7 +10,11 @@ tags: [machine-learning, python, openpilot, gokart, Autonomous]
 
 ### Purpose of the study
 To increase the knowledge and expertise within the evolving automotive industry, Infotiv AB developed the open and educational autonomous platform. The goal of the platform is to have an autonomous Go-Kart that progresses research and development in the automotive industry.
-Currently, the system is designed in three modules, an Automotive platform that implements the core driving functionality (steering, throttle, and brake) through the CAN bus. Body electronics include lights, sensors, a horn, and a monitor displaying the platform power mode and a simulated key. Finally, the autonomous drive module runs openpilot for basic driving assistant functionalities using one camera. Please read more about the autonomous platform in this link (https://infotiv-research.github.io/gokart-documentation/)
+Currently, the system is designed in three modules, an Automotive platform that implements the core driving functionality (steering, throttle, and brake) through the CAN bus. Body electronics include lights, sensors, a horn, and a monitor displaying the platform power mode and a simulated key. Finally, the autonomous drive module runs openpilot for basic driving assistant functionalities using one camera. Please read more about the autonomous platform in these links:
+
+- [https://infotiv-research.github.io/](https://infotiv-research.github.io/) 
+- [https://infotiv-research.github.io/gokart-documentation/](https://infotiv-research.github.io/gokart-documentation/) 
+
 
 The purpose of the study is to see the possibility of
 	- Introducing new functionalities to the ML autonomous drive module (Traffic Sign, Traffic light Detection) to the autonomous platform
