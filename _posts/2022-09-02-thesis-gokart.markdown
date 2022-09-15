@@ -10,7 +10,7 @@ tags: [machine-learning, python, openpilot, gokart, Autonomous]
 
 ### Purpose of the study
 To increase the knowledge and expertise within the evolving automotive industry, Infotiv AB developed the open and educational autonomous platform. The goal of the platform is to have an autonomous Go-Kart that progresses research and development in the automotive industry.
-Currently, the system is designed in three modules, an Automotive platform that implements the core driving functionality (steering, throttle, and brake) through the CAN bus. Body electronics include lights, sensors, a horn, and a monitor displaying the platform power mode and a simulated key. Finally, the autonomous drive module runs openpilot for basic driving assistant functionalities using one camera. Please read more about the autonomous platform in these links:
+Currently, the system is designed in three modules, an Automotive platform that implements the core driving functionality (steering, throttle, and brake) through the CAN. Body electronics include lights, sensors, a horn, and a monitor displaying the platform power mode and a simulated key. Finally, the autonomous drive module runs openpilot for basic driving assistant functionalities using one camera. Please read more about the autonomous platform in these links:
 
 - [https://infotiv-research.github.io/](https://infotiv-research.github.io/) 
 - [https://infotiv-research.github.io/gokart-documentation/](https://infotiv-research.github.io/gokart-documentation/) 
@@ -23,16 +23,16 @@ The purpose of the study is to see the possibility of
  - Introducing Driver Monitoring Systems (DMS) to the autonomous platform
  - Verification and Validation of the platform using simulator/digital-twin
 
-Keywords: Autonomous Platform Machine Learning Module
+Keywords: Autonomous Platform, Python, Openpilot, Autonomous Drive, Machine Learning
 
 ![GoKart autonomous platform](/assets/img/gokart-ml.png)
 
 
 ### Potential Research questions
 
- - Investigate the possibility of to partial training in the simulator and fine-tuning in the real (physical) environment
- - The effect of introducing new sensors and sensor fusion on driving quality
- - Use of digital twins for training and testing
+ - Investigate the possibility of partial training in the simulator and fine-tuning in the real (physical) environment
+ - The effect of introducing new sensors and sensor fusion on the autonomous driving system
+ - Use of digital twins for training and testing the autonomous driving system
 
 The above research questions are examples, and the proposal will be tailored to the specific candidates
 
