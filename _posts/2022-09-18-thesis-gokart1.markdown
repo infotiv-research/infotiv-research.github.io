@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Master Thesis Proposal- Autonomous Platform Machine Learning Module
-date: 2022-09-02 00:00:00 +0300
-description: To increase the knowledge and expertise within the evolving automotive industry, Infotiv AB developed the open and educational autonomous platform. The goal of the platform is to have an autonomous Go-Kart that progresses research and development in the automotive industry.
+date: 2022-09-18 00:00:00 +0300
+description: The purpose of the study is to see the possibility of 1) Introducing new functionalities to the ML autonomous drive module (Traffic Sign, Traffic light Detection) to the autonomous platform 2) Improving the driver performance by involving other sensors (LIDAR, Ultrasonic, etc.) in the autonomous platform 3) Introducing Driver Monitoring Systems (DMS) to the autonomous platform 4) Verification and Validation of the platform using simulator/digital-twin
 img: openpilot.jpg
 tags: [machine-learning, python, openpilot, gokart, Autonomous]
 ---
