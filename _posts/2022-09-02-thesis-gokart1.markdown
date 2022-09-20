@@ -43,7 +43,9 @@ The above research questions are examples, and the proposal will be tailored to 
 
 ### Other information
 
-Apply for this thesis via [https://www.infotiv.se/karriar] no later than [2022-12-31]. Assure to attach your resumé and a short summary of why you want to partake in this thesis.
+Apply for this thesis (spring of 2023) via [https://www.infotiv.se/karriar] no later than [2022-12-31]. Assure to attach your resumé and a short summary of why you want to partake in this thesis.
+
 Add the following subject: "Thesis: Autonomous Platform Machine Learning Module"
+
 For further Information, please contact: Michael Nilsson [Michael.Nilsson@Infotiv.se] +46(0) 76-000 39 60
 
