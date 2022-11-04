@@ -13,6 +13,8 @@ To increase the knowledge and expertise within the evolving automotive industry,
 
 - [https://infotiv-research.github.io/gokart-documentation/](https://infotiv-research.github.io/gokart-documentation/) 
 
+- [Chalmers exjobbsportal](https://annonsportal.chalmers.se/CareerServices/se/Ads/Details/894)
+
 
 The purpose of the study is to see the possibility of
 
@@ -36,3 +38,6 @@ Apply for this thesis via [https://www.infotiv.se/karriar] no later than [2022-1
 Add the following subject: "Thesis: Autonomous Platform - Next Generation Gokart"
 
 For further Information, please contact: Michael Nilsson [Michael.Nilsson@Infotiv.se] +46(0) 76-000 39 60
+
+[Proposal in PDF](/assets/img/AutonomousPlatform-NextGenerationGokart.pdf)
+

@@ -15,6 +15,8 @@ Currently, the system is designed in three modules, an Automotive platform that 
 - [https://infotiv-research.github.io/](https://infotiv-research.github.io/) 
 - [https://infotiv-research.github.io/gokart-documentation/](https://infotiv-research.github.io/gokart-documentation/) 
 
+- [Chalmers exjobbsportal](https://annonsportal.chalmers.se/CareerServices/se/Ads/Details/890)
+
 
 The purpose of the study is to see the possibility of either
 
@@ -49,3 +51,4 @@ Add the following subject: "Thesis: Autonomous Platform Machine Learning Module"
 
 For further Information, please contact: Michael Nilsson [Michael.Nilsson@Infotiv.se] +46(0) 76-000 39 60
 
+[Proposal in PDF](/assets/img/AutonomousPlatform-MachineLearningModule.pdf)
