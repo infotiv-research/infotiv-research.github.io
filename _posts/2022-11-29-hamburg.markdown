@@ -3,7 +3,7 @@ layout: post
 title: VALU3S Usecase-1 demo in Hamburg
 date: 2022-11-29 00:00:00 +0300
 description: he VALU3S 8th General Assembly and Consortium Meeting will be held on 29th and 30th November in Hamburg. Besides reporting of current progress status 
-img: frontdescription.png
+img: valu3s.png
 tags: [VAL3S, research, project]
 ---
 
