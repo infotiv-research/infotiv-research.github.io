@@ -1,0 +1,14 @@
+---
+layout: post
+title: Data synthetization for verification and validation of Machine Learning based system
+date: 2023-07-10 00:00:00 +0300
+description: Our submission is accepted for Product Solution Presentation at the DSC 2023 EUROPE VR Driving Simulation Conference & Exhibition and for publication in the DSC 2023 Europe VR Product Solutions Book.
+img: dsc2023.png # Add image post (optional)
+tags: [simulator, machine-learning] # add tag
+---
+
+Our submission with the title "Data synthetization for verification and validation of Machine Learning based system" is accepted for Product Solution Presentation at the DSC 2023 EUROPE VR Driving Simulation Conference & Exhibition and for publication in the DSC 2023 Europe VR Product Solutions Book.
+
+
+You can find the paper in [this link]().
+
