@@ -51,4 +51,4 @@ Add the following subject: "Thesis: Autonomous Platform Machine Learning Module"
 
 For further Information, please contact: Michael Nilsson [Michael.Nilsson@Infotiv.se] +46(0) 76-000 39 60
 
-[Proposal in PDF](/assets/img/AutonomousPlatform-MachineLearningModule.pdf)
+[Proposal in PDF](/assets/pdf/AutonomousPlatform-MachineLearningModule.pdf)

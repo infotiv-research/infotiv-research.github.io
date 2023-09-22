@@ -39,5 +39,5 @@ Add the following subject: "Thesis: Autonomous Platform - Next Generation Gokart
 
 For further Information, please contact: Michael Nilsson [Michael.Nilsson@Infotiv.se] +46(0) 76-000 39 60
 
-[Proposal in PDF](/assets/img/AutonomousPlatform-NextGenerationGokart.pdf)
+[Proposal in PDF](/assets/pdf/AutonomousPlatform-NextGenerationGokart.pdf)
 

@@ -10,5 +10,16 @@ tags: [simulator, machine-learning] # add tag
 Our submission with the title "Data synthetization for verification and validation of Machine Learning based system" is accepted for Product Solution Presentation at the DSC 2023 EUROPE VR Driving Simulation Conference & Exhibition and for publication in the DSC 2023 Europe VR Product Solutions Book.
 
 
-You can find the paper in [this link]().
+You can find the paper in [this link](/assets/pdf/DSC2023.pdf). The source code is available in [this github repository](https://github.com/ebadi/sim2ml).
+
+
+### Video Demo
+
+Scenario creation
+
+[![Scenario creation](http://img.youtube.com/vi/2LRw7jGvWLU/0.jpg)](http://www.youtube.com/watch?v=2LRw7jGvWLU "Scenario creation")
+
+Scenario generation
+
+[![Scenario generation](http://img.youtube.com/vi/bLVjQXtlwP0/0.jpg)](http://www.youtube.com/watch?v=bLVjQXtlwP0 "Scenario generation")
 
