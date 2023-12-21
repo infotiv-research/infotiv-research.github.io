@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Autonomous Platform Thesis
+title: Autonomous Platform Advanced Engineering
 date: 2023-10-15 00:00:00 +0300
-description: Advanced Engineering Package for Autonomous Platform ..
+description: Advanced Engineering Package for Autonomous Platform
 img: front_view_transparent.png # Add image post (optional)
 tags: [autonomous, platform, machine-learning] # add tag
 ---
@@ -22,6 +22,6 @@ topics are suggested:
 
 [Proposal in PDF format](/assets/pdf/Advanced-Engineering-Package-for-Autonomous-Platform.pdf)
 
-[AP4](/assets/img/back_view.jpg)
+![AP4](/assets/img/back_view.jpg)
 
 
