@@ -27,5 +27,5 @@ while not player.IsQuitRequested():
 ![https://github.com/ebadi/python-esmini](/assets/img/screenshot.png)
 
 ### Links
- 
+
 [python-esmini github repositoy](https://github.com/ebadi/python-esmini)

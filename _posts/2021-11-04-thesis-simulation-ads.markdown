@@ -2,7 +2,7 @@
 layout: post
 title: Master Thesis Proposal -Verification and Validation using Simulator
 date: 2021-11-04 00:00:00 +0300
-description: To save time and reduce the costs, the Verification and Validation of ADS (Autonomous Driving System) are mostly done in realistic simulators to capture potential hazards before these components are tested in the real worlds testing tracks.  
+description: To save time and reduce the costs, the Verification and Validation of ADS (Autonomous Driving System) are mostly done in realistic simulators to capture potential hazards before these components are tested in the real worlds testing tracks. 
 img: carla-akareplatsen.png # Add image post (optional)
 tags: [simulator, machine-learning, python] # add tag
 ---
@@ -10,7 +10,7 @@ tags: [simulator, machine-learning, python] # add tag
 
 ### Purpose of the study
 To save time and reduce the costs, the Verification and Validation of ADS (Autonomous Driving System) are mostly done in realistic simulators to capture potential hazards before these components are tested in the real worlds testing tracks. 
-In two research projects with the focus of Verification and Validation of automated systems, Infotiv is interested to experiment using open-source simulator such as ESMINI, SVL and CARLA for testing autonomous driving systems (such as openpilot and Apollo Baidu) that are using machine learning. 
+In two research projects with the focus of Verification and Validation of automated systems, Infotiv is interested to experiment using open-source simulator such as ESMINI, SVL and CARLA for testing autonomous driving systems (such as openpilot and Apollo Baidu) that are using machine learning.
 
 Keywords: Verification and Validation, Simulation, C++, Python, testing machine learning based systems
 
@@ -19,7 +19,7 @@ Please fid more information about this thesis in this link (https://infotiv-rese
 ### Potential Research questions
  - Scenario and scene creations using standards formats (such as OpenDRIVE and OpenSCENARIO) to describe the environment and the agent's behavior in simulators. We are potentially interested to implement a scenario editor based on ESMINI. (https://github.com/esmini/esmini)
  - Realistic graphical 3D models of a realistic urban environment in SVL (based on Unity) and CARLA (based on Unreal engine) simulators.
-     * https://carla.org/ 
+     * https://carla.org/
      * https://www.svlsimulator.com/
 
 The above research questions are examples, and the proposal will be tailored to the specific candidates

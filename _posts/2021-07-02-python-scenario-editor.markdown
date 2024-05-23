@@ -14,5 +14,5 @@ ASAM OpenSCENARIO defines a file format for the description of the dynamic conte
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XvoPWt66IqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Links
- 
+
 [Open Scenario Editor repository](https://github.com/ebadi/OpenScenarioEditor)

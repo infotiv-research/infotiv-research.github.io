@@ -15,5 +15,5 @@ A short video demo of **realify**:
 
 
 ### Links
- 
+
 [Realify github repositoy](https://github.com/ebadi/realify)
