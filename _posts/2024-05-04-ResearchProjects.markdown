@@ -2,8 +2,8 @@
 layout: post
 title: Research Projects
 date: 2024-05-04 00:00:00 +0300
-description: 
-img: dsc2023.png
+description: # SMILE, VALU3S and ARTWORK​
+img: front_view_transparent.png
 tags: [simulator, machine-learning]
 ---
 
