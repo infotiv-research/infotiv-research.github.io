@@ -22,7 +22,7 @@ tags: [simulator, machine-learning]
     - universities (10 partners) ​
 
 
-## ARTWORK​
+## ARTWORK​ (The smart and connected worker)
 ARTWORK is developing a real-time assistance system for workers in plants who still work with their hands to build customised products like trucks and machines.​
 The solution will comprise ​
 
@@ -31,5 +31,3 @@ The solution will comprise ​
 - a worker feedback system.​
 
 The goal is to connect workers to the production line and enable automatic derivation of process instructions based on the context​
-
-​
