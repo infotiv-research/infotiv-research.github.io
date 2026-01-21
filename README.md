@@ -15,9 +15,11 @@ source ~/.bashrc
 gem install jekyll jekyll-feed jekyll-gist jekyll-paginate jekyll-sass-converter jekyll-coffeescript
 bundle update
 jekyll build
-jekyll serve
+#jekyll serve
+#jekyll serve --config _config.yml,local_config.yml
 ```
 
+Once tested and pushed. It is available at https://infotiv-research.github.io/
 ## License
 
 GNU General Public License v3.0
