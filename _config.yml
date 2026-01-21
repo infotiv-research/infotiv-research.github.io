@@ -1,7 +1,7 @@
 title: Infotiv portfolio of projects
 description: Welcome to the online portfolio of Infotiv research team
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://infotiv-research.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: infotiv #if your site has a twitter account, enter it here
 

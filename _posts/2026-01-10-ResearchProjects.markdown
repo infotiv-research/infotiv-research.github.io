@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Research Projects
-date: 2024-05-04 00:00:00 +0300
+date: 2026-01-10 00:00:00 +0300
 description: # SMILE, VALU3S and ARTWORK​
-img: front_view_transparent.png
+img: riksdagshuset.jpg
 tags: [simulator, machine-learning]
 ---
-
 
 ## SMILE III, IV (Safety analysis and verification/validation of ML based systems)
 
