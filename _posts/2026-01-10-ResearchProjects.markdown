@@ -24,7 +24,8 @@ The goal is to connect workers to the production line and enable automatic deriv
 - Future autonomous vehicles will rely on Deep machine learning algorithms (DML), whose correct behaviour cannot be guaranteed by traditional software engineering approaches ​
 - SMILE III project tries to develop method(s) that allow DML-based functions to be included into safety critical vehicular applications with quality control requirements from industrial standards.​
 
-🔗 [https://www.vinnova.se/p/smile-iv/](https://www.vinnova.se/p/smile-iv/)
+- 🔗 [SMILE III](https://www.vinnova.se/en/p/smile-iii--safety-analysis-and-verificationvalidation-of-machine-learning-based-systems/)
+- 🔗 [SMILE IV](https://www.vinnova.se/p/smile-iv/)
 
 ## VALU3S (Verification and Validation of Automated Systems' Safety and Security​)
 
