@@ -35,9 +35,9 @@ This simulation environment, based on the Ignition Gazebo simulator and ROS 2, r
 
 ArUco marker localization
 
-![](aruco_localisation.png)
+![](https://github.com/infotiv-research/SIMLAN/raw/main/resources/aruco_localisation.png)
 
 Inverse Perspective Mapping (Bird's-Eye view projection)
 
-![](stitched.png)
+![](https://github.com/infotiv-research/SIMLAN/raw/main/resources/stitched.png)
 
