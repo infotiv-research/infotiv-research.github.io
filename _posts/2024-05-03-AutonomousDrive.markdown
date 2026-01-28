@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autonomous Drive
+title: Autonomous Drive (software)
 date: 2024-05-03 00:00:00 +0300
 description: #Advanced Engineering of Autonomous Platforms and Simulation
 img: openpilot.jpg

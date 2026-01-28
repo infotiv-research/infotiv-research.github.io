@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autonomous Platform (Gen4)
+title: Autonomous Platform (hardware)
 date: 2026-01-02 00:00:00 +0300
 description: #Publications by Infotiv research team
 img: front_view_transparent.png
