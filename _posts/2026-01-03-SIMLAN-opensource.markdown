@@ -29,6 +29,15 @@ This simulation environment, based on the Ignition Gazebo simulator and ROS 2, r
 - Panda arm robotic arm
 - Deep-learning-based human pose capture and replay,
 
-📹 Click the YouTube link below to view the SIMLAN demo video:
+[📹 Click the YouTube link below to view the SIMLAN demo video](https://www.youtube.com/watch?v=FJcsVDP3DHg):
 
 [![SIMLAN demo](https://img.youtube.com/vi/FJcsVDP3DHg/0.jpg)](https://www.youtube.com/watch?v=FJcsVDP3DHg)
+
+ArUco marker localization
+
+![](aruco_localisation.png)
+
+Inverse Perspective Mapping (Bird's-Eye view projection)
+
+![](stitched.png)
+

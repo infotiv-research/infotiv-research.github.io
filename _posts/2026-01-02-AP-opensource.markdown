@@ -18,9 +18,6 @@ Autonomous Platform (generation 4) project is a platform on which internal and e
 
 
 
-https://infotiv-research.github.io/autonomous_platform/
-
-
 [![](https://github.com/infotiv-research/autonomous_platform/raw/main/Resources/Thesis_2025.png)](https://github.com/infotiv-research/autonomous_platform/blob/main/Master_Thesis2025.pdf)
 [![](https://github.com/infotiv-research/autonomous_platform/raw/main/Resources/Spring_2024/thesis.png)](https://github.com/infotiv-research/autonomous_platform/blob/main/Master_Thesis2024.pdf)
 [![](https://github.com/infotiv-research/autonomous_platform/raw/main/Resources/thesis.png)](https://github.com/infotiv-research/autonomous_platform/blob/main/Master_Thesis2023.pdf)
@@ -55,9 +52,9 @@ The software is built to be scalable and modular. The software structure is desc
 
 Consists of a led acid battery and a power supply unit, both can be connected to power the autonomous platform. Meaning the platform can be powered whilst driving around from battery. Whilst in a lab environment power can be supplied to the platform through a wall socket.
 
-### Digital Twin <a name="Digital-Twin"></a>
+### Digital Twin
 
-The digital twin is implemented in the high-level software. It is described in detail in `High_Level_Control_Computer/README.md`. It is automatically started when the high-level docker container is started.
+The digital twin is implemented in the high-level software. 
 
 ### Imitation Learning
 

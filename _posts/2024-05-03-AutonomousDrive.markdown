@@ -17,6 +17,9 @@ This work presents an implementation of IL for achieving autonomous driving on a
 - The __source code__ for the project can be found in the following address: [https://github.com/infotiv-research/autonomous_platform](https://github.com/infotiv-research/autonomous_platform)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hyw-hApxQHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v-GTaprN-Ec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
