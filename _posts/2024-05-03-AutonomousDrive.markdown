@@ -24,26 +24,26 @@ This work presents an implementation of IL for achieving autonomous driving on a
 
 
 ## ScenarioGenerator
-ScenarioGenerator performs search-based software testing of Baidu Apollo by automatic generation of various traffic scenarios in SVL end-to-end autonomous vehicle. to verify and validate the safety functionality of Apollo autonomous systems.
+ScenarioGenerator performs search-based software testing of Baidu Apollo by automatic generation of various traffic scenarios in the SVL end-to-end autonomous vehicle simulator to verify and validate the safety functionality of Apollo autonomous systems.
 
 
-[*ScenarioGenerator*](https://github.com/ebadi/ScenarioGenerator) performs search-based software testing of [Baidu Apollo](https://apollo.auto) by automatic generation of various traffic scenarios in [SVL end-to-end autonomous vehicle.](https://www.svlsimulator.com) to verify and validate the safety functionality of Apollo autonomous systems. ScenarioGenerator project is started and is currently maintained by Hamid Ebadi.
+[*ScenarioGenerator*](https://github.com/ebadi/ScenarioGenerator) performs search-based software testing of [Baidu Apollo](https://apollo.auto) by automatic generation of various traffic scenarios in the [SVL end-to-end autonomous vehicle simulator](https://www.svlsimulator.com) to verify and validate the safety functionality of Apollo autonomous systems. The ScenarioGenerator project was started and is currently maintained by Hamid Ebadi.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GOtpSJodlmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 3D modelling of a central area in Göteborg (Åkareplatsen) in CARLA (Unreal-Enigne)
+## 3D modelling of a central area in Göteborg (Åkareplatsen) in CARLA (Unreal-Engine)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nFQzp4fd51o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3D modelling of a central area in Göteborg (Åkareplatsen) in CARLA (Unreal-Enigne)
+3D modelling of a central area in Göteborg (Åkareplatsen) in CARLA (Unreal-Engine)
 
 
 
 ## Verification and Validation of machine learning based License plate detection algorithms
 
-Using CARLA to generate sythentic images for Verification and Validation of machine learning based license plate detection algorithms :
+Using CARLA to generate synthetic images for Verification and Validation of machine learning based license plate detection algorithms :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GERGhiPWQSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -58,7 +58,7 @@ Verification and Validation of OpenPilot driver assistance system within CARLA a
 DonkeyCar simulator integration:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3g5uRfs2hxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Carla simulator integration:
+CARLA simulator integration:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onnVoFoYCOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

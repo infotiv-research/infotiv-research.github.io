@@ -19,7 +19,8 @@ jekyll build
 #jekyll serve --config _config.yml,local_config.yml
 ```
 
-Once tested and pushed. It is available at https://infotiv-research.github.io/
+Once tested and pushed, it is available at https://infotiv-research.github.io/
+
 ## License
 
 GNU General Public License v3.0

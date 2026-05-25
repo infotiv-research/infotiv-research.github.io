@@ -11,7 +11,7 @@ tags: [publications, papers,articles]
 ## Vision-Based Multi-Camera Robotics Simulation
 ### The SIMLAN Open-Source Framework for Industrial Environments
 
-We present SIMLAN, an open-source [SIMLAN](https://github.com/infotiv-research/SIMLAN) simulation environment designed for rapid prototyping and testing of multi-camera robotic algorithms. Inspired by Volvo Group's Generic Photo-based Sensor System (GPSS) the SIMLAN project models ceiling-mounted camera networks and factory layouts to enable global, vision-based monitoring, localization, and navigation.
+We present SIMLAN, an open-source [SIMLAN](https://github.com/infotiv-research/SIMLAN) simulation environment designed for rapid prototyping and testing of multi-camera robotic algorithms. Inspired by Volvo Group's Generic Photo-based Sensor System (GPSS), the SIMLAN project models ceiling-mounted camera networks and factory layouts to enable global, vision-based monitoring, localization, and navigation.
 The system includes utilities for deep-learning-based visual human pose capture and replay, bird's-eye image stitching, geofencing, ArUco-based localization and navigation, all packaged in reproducible Docker containers. SIMLAN reduces the barriers to prototyping and research on the monitoring, verification, and validation of vision-based robotics systems.
 
 
@@ -41,14 +41,13 @@ Integration of Machine Learning (ML) components in critical applications introdu
 Our submission with the title "Data synthetization for verification and validation of Machine Learning based system" is accepted for Product Solution Presentation at the DSC 2023 EUROPE VR Driving Simulation Conference & Exhibition and for publication in the DSC 2023 Europe VR Product Solutions Book.
 
 
-[Read the article here](/assets/pdf/DSC2023.pdf). The source code is available in [this github repository](https://github.com/ebadi/sim2ml).
+[Read the article here](/assets/pdf/DSC2023.pdf). The source code is available in [this GitHub repository](https://github.com/ebadi/sim2ml).
 
 
 
 ## Ergo, SMIRK is Safe: A Safety Case for a Machine Learning Component in a Pedestrian Automatic Emergency Brake System
 
-Integration of Machine Learning (ML) components in critical applications introduces novel challenges for software certification and verification. New safety standards and technical guidelines are under development to support the safety of ML-based systems, e.g., ISO 21448 SOTIF for the automotive domain and the Assurance of Machine Learning for use in Autonomous Systems (AMLAS) framework. SOTIF and AMLAS provide high-level guidance but the details must be chiseled out for each specific case. We initiated a research project with the goal to demonstrate a complete safety case for an ML component in an open automotive system. This paper reports results from an industry-academia collaboration on safety assurance of SMIRK, an ML-based pedestrian automatic emergency braking demonstrator running in an industry-grade simulator. We demonstrate an application of AMLAS on SMIRK for a minimalistic operational design domain, i.e., we share a complete safety case for its integrated ML-based component. Finally, we report lessons learned and provide both SMIRK and the safety case under an open-source licence for the research community to reuse. 
-smirk-paper.png
+Integration of Machine Learning (ML) components in critical applications introduces novel challenges for software certification and verification. New safety standards and technical guidelines are under development to support the safety of ML-based systems, e.g., ISO 21448 SOTIF for the automotive domain and the Assurance of Machine Learning for use in Autonomous Systems (AMLAS) framework. SOTIF and AMLAS provide high-level guidance but the details must be chiseled out for each specific case. We initiated a research project with the goal to demonstrate a complete safety case for an ML component in an open automotive system. This paper reports results from an industry-academia collaboration on safety assurance of SMIRK, an ML-based pedestrian automatic emergency braking demonstrator running in an industry-grade simulator. We demonstrate an application of AMLAS on SMIRK for a minimalistic operational design domain, i.e., we share a complete safety case for its integrated ML-based component. Finally, we report lessons learned and provide both SMIRK and the safety case under an open-source licence for the research community to reuse.
 
 [Read the article here](https://arxiv.org/abs/2204.07874)
 

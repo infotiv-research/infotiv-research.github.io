@@ -27,7 +27,7 @@ This simulation environment, based on the Ignition Gazebo simulator and ROS 2, r
 - Geofencing for safe zones and safe stop on collision
 - Humanoid worker model
 - Panda arm robotic arm
-- Deep-learning-based human pose capture and replay,
+- Deep-learning-based human pose capture and replay
 
 [📹 Click the YouTube link below to view the SIMLAN demo video](https://www.youtube.com/watch?v=FJcsVDP3DHg):
 
