@@ -9,7 +9,9 @@ tags: [simulator, machine-learning]
 
 ## ARTWORK — The Smart and Connected Worker
 
-**EUREKA ITEA4 | 2022–2025**
+<img src="/assets/img/artwork-logo.png" class="project-logo" alt="ARTWORK logo">
+
+<span class="project-meta">EUREKA ITEA4 &nbsp;·&nbsp; 2022–2025</span>
 
 ArtWork develops a real-time, context-aware assistance system for industrial workers. The project combines digital twins, smart instruction generation, and worker feedback systems to connect workers to the production line and enable automatic derivation of process instructions based on context.
 
@@ -23,7 +25,9 @@ The solution targets four industrial use cases across truck assembly, textile ma
 
 ## SMILE III & IV — Safety Analysis of ML-Based Systems
 
-**Vinnova FFI | 2020–2024**
+<img src="/assets/img/smile-logo.png" class="project-logo" alt="SMILE III logo">
+
+<span class="project-meta">Vinnova FFI &nbsp;·&nbsp; 2020–2024</span>
 
 Future autonomous vehicles rely on Deep Machine Learning (DML) algorithms whose correct behaviour cannot be guaranteed by traditional software engineering approaches. The SMILE projects develop methods that allow DML-based functions to be included in safety-critical vehicular applications while meeting quality control requirements from industrial standards such as ISO 21448 (SOTIF) and ISO 26262.
 
@@ -37,7 +41,9 @@ SMILE III focused on establishing safety analysis methods for ML components. SMI
 
 ## VALU3S — Verification and Validation of Automated Systems
 
-**ECSEL Joint Undertaking | 2020–2023**
+<img src="/assets/img/valu3s-logo.png" class="project-logo" alt="VALU3S logo">
+
+<span class="project-meta">ECSEL Joint Undertaking &nbsp;·&nbsp; 2020–2023</span>
 
 VALU3S is a large-scale European research project that designs, implements, and evaluates state-of-the-art V&amp;V methods and tools for automated systems across multiple safety-critical domains.
 

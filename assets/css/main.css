@@ -1459,3 +1459,57 @@ a.older-posts:hover, a.newer-posts:hover {
     letter-spacing: 0.3px;
   }
 }
+
+/* Research project metadata badge */
+.project-meta {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  color: #4b6080;
+  background: #e8ecf2;
+  border-radius: 4px;
+  padding: 3px 10px;
+  margin-bottom: 10px;
+  letter-spacing: 0.4px;
+}
+
+/* Project logos on Research Projects page */
+.project-logo {
+  float: right;
+  max-width: 200px;
+  max-height: 90px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  margin: 0 0 16px 28px;
+  background: #fff;
+  padding: 10px 16px;
+  border-radius: 8px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.1);
+  display: block;
+}
+
+.tab-content h2 {
+  clear: right;
+  color: #263959;
+  margin-top: 2.2rem;
+  margin-bottom: 0.4rem;
+}
+
+.tab-content h2:first-child { margin-top: 0; }
+
+.tab-content hr {
+  border: none;
+  border-top: 1px solid #e0e4ea;
+  margin: 2.5rem 0;
+  clear: both;
+}
+
+@media only screen and (max-width: 600px) {
+  .project-logo {
+    float: none;
+    display: block;
+    margin: 0 auto 16px;
+    max-width: 160px;
+  }
+}
