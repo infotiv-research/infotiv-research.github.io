@@ -2,37 +2,47 @@
 layout: post
 title: Research Projects
 date: 2026-01-10 00:00:00 +0300
-description: # SMILE, VALU3S and ARTWORK​
+description: Collaborative research projects in AI safety, autonomous systems, and smart manufacturing.
 img: riksdagshuset.jpg
 tags: [simulator, machine-learning]
 ---
 
-## ARTWORK​ (The smart and connected worker)
-The goal of ArtWork is to develop a real-time, context-aware assistance system for workers. The solution will be a combination of hardware and software that will be demonstrated in four different industrial use cases in the domain of truck assembly, textile manufacturing, ship engine manufacturing, and bus assembly. The solution will comprise:
+## ARTWORK — The Smart and Connected Worker
 
-- digital twins of factory workers and equipment
-- smart instruction generation​
-- a worker feedback system.​
+**EUREKA ITEA4 | 2022–2025**
 
-The goal is to connect workers to the production line and enable automatic derivation of process instructions based on the context
+ArtWork develops a real-time, context-aware assistance system for industrial workers. The project combines digital twins, smart instruction generation, and worker feedback systems to connect workers to the production line and enable automatic derivation of process instructions based on context.
 
-🔗 [https://artworkproject.org](https://artworkproject.org)
+The solution targets four industrial use cases across truck assembly, textile manufacturing, ship engine manufacturing, and bus assembly — demonstrating the system in real production environments across Europe.
 
+**Infotiv's contribution:** Human-robot collaboration simulation (RITA-SIM), worker pose capture and replay, and integration of the SIMLAN multi-camera framework.
 
-## SMILE III, IV (Safety analysis and verification/validation of ML based systems)
+🔗 [artworkproject.org](https://artworkproject.org) &nbsp;·&nbsp; 🔗 [Vinnova](https://www.vinnova.se/p/artwork---the-smart-and-connected-worker/)
 
-- Future autonomous vehicles will rely on Deep Machine Learning algorithms (DML), whose correct behaviour cannot be guaranteed by traditional software engineering approaches
-- SMILE III project tries to develop method(s) that allow DML-based functions to be included into safety-critical vehicular applications with quality control requirements from industrial standards.
+---
 
-- 🔗 [SMILE III](https://www.vinnova.se/en/p/smile-iii--safety-analysis-and-verificationvalidation-of-machine-learning-based-systems/)
-- 🔗 [SMILE IV](https://www.vinnova.se/p/smile-iv/)
+## SMILE III & IV — Safety Analysis of ML-Based Systems
 
-## VALU3S (Verification and Validation of Automated Systems' Safety and Security​)
+**Vinnova FFI | 2020–2024**
 
-- VALU3S aims to design, implement and evaluate state-of-the-art V&V methods and tools​
-- VALU3S brings together a consortium with partners from 10 different countries​
-    - industrial partners (24 partners) from automotive, agriculture, railway, healthcare, aerospace and industrial automation and robotics domains ​
-    - leading research institutes (6 partners) ​
-    - universities (10 partners) ​
+Future autonomous vehicles rely on Deep Machine Learning (DML) algorithms whose correct behaviour cannot be guaranteed by traditional software engineering approaches. The SMILE projects develop methods that allow DML-based functions to be included in safety-critical vehicular applications while meeting quality control requirements from industrial standards such as ISO 21448 (SOTIF) and ISO 26262.
 
-🔗 [https://valu3s.eu](https://valu3s.eu)
+SMILE III focused on establishing safety analysis methods for ML components. SMILE IV extends this work toward formal safety cases and tool-supported assurance workflows.
+
+**Infotiv's contribution:** Application of the AMLAS framework to the SMIRK pedestrian emergency braking demonstrator; development of safety cases for ML components.
+
+🔗 [SMILE III](https://www.vinnova.se/en/p/smile-iii--safety-analysis-and-verificationvalidation-of-machine-learning-based-systems/) &nbsp;·&nbsp; 🔗 [SMILE IV](https://www.vinnova.se/p/smile-iv/)
+
+---
+
+## VALU3S — Verification and Validation of Automated Systems
+
+**ECSEL Joint Undertaking | 2020–2023**
+
+VALU3S is a large-scale European research project that designs, implements, and evaluates state-of-the-art V&amp;V methods and tools for automated systems across multiple safety-critical domains.
+
+The consortium spans **40 partners from 10 countries**, including 24 industrial partners from automotive, agriculture, railway, healthcare, aerospace, and industrial automation, alongside 6 leading research institutes and 10 universities.
+
+**Infotiv's contribution:** Search-based software testing of the Baidu Apollo autonomous driving platform in the SVL simulator; evolutionary test case generation for pedestrian detection.
+
+🔗 [valu3s.eu](https://valu3s.eu)
