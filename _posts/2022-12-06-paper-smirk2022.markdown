@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Ergo, SMIRK is Safe: A Safety Case for a Machine Learning Component in a Pedestrian Automatic Emergency Brake System"
+date: 2022-12-06 00:00:00 +0300
+description: Presents a complete safety case for SMIRK, an ML-based pedestrian automatic emergency braking demonstrator, applying the AMLAS framework in an industry-academia collaboration. Published in Software Quality Journal.
+img: smirk-paper.png
+tags: [machine-learning, functional-safety, automotive, amlas, sotif]
+type: paper
+category: publication
+venue: "Software Quality Journal"
+authors: "Markus Borg, Jens Henriksson, Kasper Socha, Olof Lennartsson, Elias Sonnsjö Lönegren, Thanh Bui, Piotr Tomaszewski, Sankar Raman Sathyamoorthy, Sebastian Brink, Mahshid Helali Moghadam"
+---
+
+**Authors:** Markus Borg, Jens Henriksson, Kasper Socha, Olof Lennartsson, Elias Sonnsjö Lönegren, Thanh Bui, Piotr Tomaszewski, Sankar Raman Sathyamoorthy, Sebastian Brink, Mahshid Helali Moghadam
+
+**Venue:** Software Quality Journal (2022)
+
+## Abstract
+
+Integration of Machine Learning (ML) components in critical applications introduces novel challenges for software certification and verification. New safety standards and technical guidelines are under development to support the safety of ML-based systems, e.g., ISO 21448 SOTIF for the automotive domain and the Assurance of Machine Learning for use in Autonomous Systems (AMLAS) framework. SOTIF and AMLAS provide high-level guidance but the details must be chiseled out for each specific case.
+
+We initiated a research project with the goal to demonstrate a complete safety case for an ML component in an open automotive system. This paper reports results from an industry-academia collaboration on safety assurance of **SMIRK**, an ML-based pedestrian automatic emergency braking demonstrator running in an industry-grade simulator. We demonstrate an application of AMLAS on SMIRK for a minimalistic operational design domain — i.e., we share a complete safety case for its integrated ML-based component. Finally, we report lessons learned and provide both SMIRK and the safety case under an open-source licence for the research community to reuse.
+
+**Keywords:** machine learning safety, automotive certification, SOTIF, AMLAS, automatic emergency braking, software engineering
+
+## Citation
+
+> Borg, M., Henriksson, J., Socha, K., Lennartsson, O., Lönegren, E. S., Bui, T., Tomaszewski, P., Sathyamoorthy, S. R., Brink, S., and Helali Moghadam, M. (2022). Ergo, SMIRK is Safe: A Safety Case for a Machine Learning Component in a Pedestrian Automatic Emergency Brake System. *Software Quality Journal*.
+
+<a href="/assets/pdf/SMIRK2022.pdf" class="download-btn" download><i class="fa fa-file-pdf-o"></i> Download PDF</a>
+<a href="/assets/bib/SMIRK2022.bib" class="download-btn download-btn--bib" download><i class="fa fa-quote-right"></i> Download BibTeX</a>
+<a href="https://arxiv.org/abs/2204.07874" class="download-btn download-btn--repo" target="_blank"><i class="fa fa-external-link"></i> arXiv</a>

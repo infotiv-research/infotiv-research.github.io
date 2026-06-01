@@ -1,0 +1,21 @@
+---
+layout: main
+tab: technical-projects
+permalink: /technical-projects/
+---
+{% assign projects = site.posts | where: "category", "project" | sort: "date" | reverse %}
+{% for post in projects %}
+<article class="post">
+  {% if post.img %}
+    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append: post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+  {% endif %}
+  <div class="post-content">
+    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+    {% if post.description %}
+    <p>{{ post.description }}</p>
+    {% else %}
+    <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+    {% endif %}
+  </div>
+</article>
+{% endfor %}

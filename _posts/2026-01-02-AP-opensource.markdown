@@ -2,9 +2,10 @@
 layout: post
 title: Autonomous Platform (hardware)
 date: 2026-01-02 00:00:00 +0300
-description: #Publications by Infotiv research team
+description: A scalable open-source go-kart platform for testing autonomous drive algorithms and expanding knowledge in software and hardware system development.
 img: front_view_transparent.png
 tags: [opensource, research]
+category: project
 ---
 
 

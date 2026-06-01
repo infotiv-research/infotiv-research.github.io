@@ -1479,3 +1479,74 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+/* Tab bar */
+.tab-bar {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid #ecf0f1;
+}
+.tab-bar .tab {
+  padding: 12px 28px;
+  text-decoration: none;
+  color: #515151;
+  font-family: 'PT Serif', serif;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  -webkit-transition: all 0.2s;
+          transition: all 0.2s;
+}
+.tab-bar .tab:hover {
+  color: #263959;
+  border-bottom-color: #a0a0a0;
+}
+.tab-bar .tab.active {
+  color: #263959;
+  border-bottom-color: #263959;
+}
+.tab-content {
+  width: 100%;
+}
+
+/* Download buttons on publication pages */
+.download-btn {
+  display: inline-block;
+  margin: 6px 8px 6px 0;
+  padding: 8px 16px;
+  background-color: #263959;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 700;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+.download-btn:hover {
+  background-color: #1a2840;
+  color: #ffffff;
+}
+.download-btn--bib {
+  background-color: #515151;
+}
+.download-btn--bib:hover {
+  background-color: #333030;
+}
+.download-btn--repo {
+  background-color: #24292e;
+}
+.download-btn--repo:hover {
+  background-color: #111;
+}

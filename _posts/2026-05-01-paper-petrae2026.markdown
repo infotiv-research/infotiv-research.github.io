@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Vision-Based Multi-Camera Robotics Simulation: The SIMLAN Open-Source Framework for Industrial Environments"
+date: 2026-05-01 00:00:00 +0300
+description: Presents SIMLAN, an open-source simulation environment based on Ignition Gazebo and ROS 2 designed for rapid prototyping and testing of multi-camera robotic algorithms in industrial environments. Submitted to PETRA 2026.
+img: publications/PETRAE2026-1.png
+tags: [robotics, simulation, ros2, computer-vision, machine-learning]
+type: paper
+category: publication
+venue: "PETRA 2026 — 19th PErvasive Technologies Related to Assistive Environments (Under Review)"
+authors: "Hamid Ebadi, Pär Aronsson"
+pdf: PETRAE2026.pdf
+---
+
+**Authors:** Hamid Ebadi, Pär Aronsson
+
+**Affiliation:** Infotiv research, Gothenburg, Sweden
+
+**Venue:** Submitted to the 19th PErvasive Technologies Related to Assistive Environments (PETRA) Conference *(Under Review)*
+
+## Abstract
+
+We present **SIMLAN** (SIMulation for Indoor Multi-Camera Localization And Navigation), an open-source simulation environment designed for rapid prototyping and testing of multi-camera robotic algorithms.
+
+Inspired by Volvo Group's Generic Photo-based Sensor System (GPSS), the SIMLAN project models ceiling-mounted camera networks and factory layouts to enable global, vision-based monitoring, localization, and navigation. The system includes utilities for:
+
+- Deep-learning-based visual human pose capture and replay
+- Bird's-eye image stitching
+- Geofencing
+- ArUco-based localization and navigation
+
+All packaged in reproducible Docker containers. SIMLAN reduces the barriers to prototyping and research on the monitoring, verification, and validation of vision-based robotics systems.
+
+**Keywords:** Simulation environments · Robotic · Computer vision · Multi-camera systems · Human–robot interaction · Verification and validation
+
+## Citation
+
+> Ebadi, H., and Aronsson, P. (2026). Vision-Based Multi-Camera Robotics Simulation: The SIMLAN Open-Source Framework for Industrial Environments. Submitted to the 19th PETRA Conference. *(Under Review)*
+
+<a href="/assets/pdf/PETRAE2026.pdf" class="download-btn" download><i class="fa fa-file-pdf-o"></i> Download PDF</a>
+<a href="/assets/bib/PETRAE2026.bib" class="download-btn download-btn--bib" download><i class="fa fa-quote-right"></i> Download BibTeX</a>
+<a href="https://github.com/infotiv-research/SIMLAN" class="download-btn download-btn--repo" target="_blank"><i class="fa fa-github"></i> GitHub Repository</a>

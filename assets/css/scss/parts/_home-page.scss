@@ -1,3 +1,39 @@
+.tab-bar {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid $gray;
+
+  .tab {
+    padding: 12px 28px;
+    text-decoration: none;
+    color: $body-color;
+    font-family: 'PT Serif', serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-bottom: 3px solid transparent;
+    margin-bottom: -2px;
+    transition: all 0.2s;
+
+    &:hover {
+      color: $dark-blue;
+      border-bottom-color: $dark-gray;
+    }
+
+    &.active {
+      color: $dark-blue;
+      border-bottom-color: $dark-blue;
+    }
+  }
+}
+
+.tab-content {
+  width: 100%;
+}
+
 .sidebar {
   display: flex;
   flex-direction: column;

@@ -2,9 +2,10 @@
 layout: post
 title: Autonomous Drive (software)
 date: 2024-05-03 00:00:00 +0300
-description: #Advanced Engineering of Autonomous Platforms and Simulation
+description: Advanced engineering of autonomous platforms and simulation — imitation learning, search-based testing, and 3D environment modelling for autonomous driving research.
 img: openpilot.jpg
 tags: [autonomous, platform, machine-learning]
+category: project
 ---
 
 

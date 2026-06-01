@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Efficient and Effective Generation of Test Cases for Pedestrian Detection – Search-based Software Testing of Baidu Apollo in SVL"
+date: 2021-08-12 00:00:00 +0300
+description: Proposes an evolutionary automated test generation technique that generates failure-revealing scenarios for the Baidu Apollo autonomous driving platform in the SVL simulator. Presented at IEEE AITest 2021.
+img: publications/AITest2021-1.png
+tags: [autonomous-driving, machine-learning, software-testing, simulation]
+type: paper
+category: publication
+venue: "IEEE AITest 2021 — 3rd International Conference on AI Testing"
+authors: "Hamid Ebadi, Mahshid Helali Moghadam, Markus Borg, Gregory Gay, Afonso Fontes, Kasper Socha"
+pdf: AITest2021.pdf
+---
+
+**Authors:** Hamid Ebadi, Mahshid Helali Moghadam, Markus Borg, Gregory Gay, Afonso Fontes, Kasper Socha
+
+**Affiliations:** Infotiv AB · RISE Research Institutes of Sweden · Chalmers and University of Gothenburg · Lund University
+
+**Venue:** IEEE Third International Conference on Artificial Intelligence Testing (AITest 2021), pp. 103–110 — *2021 IEEE Autonomous Driving AI Test Challenge*
+
+## Abstract
+
+With the growing capabilities of autonomous vehicles, there is a higher demand for sophisticated and pragmatic quality assurance approaches for machine learning-enabled systems in the automotive AI context. Simulation-based testing properly complements conventional on-road testing by enabling inexpensive testing and the ability to capture critical corner-case test scenarios.
+
+This paper presents a study on testing the pedestrian detection and emergency braking system of the Baidu Apollo autonomous driving platform within the SVL simulator. We propose an **evolutionary automated test generation technique** that generates failure-revealing scenarios for Apollo in the SVL environment. Our approach models the input space using a generic and flexible data structure and benefits a multi-criteria safety-based heuristic for the objective function.
+
+Our evaluation shows that the proposed evolutionary test case generator is more effective at generating failure-revealing test cases and provides higher diversity between the generated failures than the random baseline.
+
+**Index Terms:** Search-Based Test Generation, Evolutionary Algorithm, Advanced Driver Assistance Systems, Pedestrian Detection, Automotive Simulators
+
+## Award
+
+This paper was presented at the **2021 IEEE Autonomous Driving AI Test Challenge**, where the Infotiv-led Swedish team ranked in the **top 13 out of 119 teams** worldwide and qualified for the final phase.
+
+## Citation
+
+> Ebadi, H., Moghadam, M. H., Borg, M., Gay, G., Fontes, A., and Socha, K. (2021). Efficient and effective generation of test cases for pedestrian detection — search-based software testing of Baidu Apollo in SVL. *2021 IEEE International Conference on Artificial Intelligence Testing (AITest)*, pp. 103–110.
+
+<a href="/assets/pdf/AITest2021.pdf" class="download-btn" download><i class="fa fa-file-pdf-o"></i> Download PDF</a>
+<a href="/assets/bib/AITest2021.bib" class="download-btn download-btn--bib" download><i class="fa fa-quote-right"></i> Download BibTeX</a>
+<a href="https://github.com/ebadi/ScenarioGenerator" class="download-btn download-btn--repo" target="_blank"><i class="fa fa-github"></i> GitHub Repository</a>

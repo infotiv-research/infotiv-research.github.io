@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Exploring the Assessment List for Trustworthy AI in the Context of Advanced Driver-Assistance Systems"
+date: 2021-05-25 00:00:00 +0300
+description: Presents an illustrative case study from applying the EU AI-HLEG ALTAI assessment list to an ongoing ML-based Advanced Driver-Assistance System (ADAS) development project. Presented at SEthics 2021.
+img: publications/SEthics2021-1.png
+tags: [machine-learning, autonomous-driving, ai-ethics, trustworthy-ai]
+type: paper
+category: publication
+venue: "SEthics 2021 — IEEE/ACM International Workshop on Ethics in Software Engineering"
+authors: "Markus Borg, Joshua Bronson, Linus Christensson, Fredrik Olsson, Olof Lennartsson, Elias Sonnsjö, Hamid Ebadi, Martin Karsberg"
+pdf: SEthics2021.pdf
+---
+
+**Authors:** Markus Borg, Joshua Bronson, Linus Christensson, Fredrik Olsson, Olof Lennartsson, Elias Sonnsjö, Hamid Ebadi, Martin Karsberg
+
+**Affiliations:** RISE Research Institutes of Sweden · Lund University · Infotiv AB
+
+**Venue:** IEEE/ACM 2nd International Workshop on Ethics in Software Engineering Research and Practice (SEthics 2021), pp. 5–12
+
+## Abstract
+
+Artificial Intelligence (AI) is increasingly used in critical applications, creating demand for dependable AI systems. In 2018, the European Commission appointed AI-HLEG, which defined Trustworthy AI as lawful, ethical, and robust, specifying seven corresponding key requirements.
+
+To help development organizations, AI-HLEG published the **Assessment List for Trustworthy AI (ALTAI)**. This paper presents an illustrative case study from applying ALTAI to an ongoing development project of an ML-based Advanced Driver-Assistance System (ADAS) named SMIRK.
+
+Our experience shows that ALTAI is largely applicable to ADAS development, but specific parts related to human agency and transparency can be disregarded. We present recommendations for the next revision of ALTAI, including life-cycle variants, domain-specific adaptations, and removal of redundancy.
+
+**Index Terms:** machine learning, ethics, functional safety, automotive software, trustworthy AI
+
+## Citation
+
+> Borg, M., Bronson, J., Christensson, L., Olsson, F., Lennartsson, O., Sonnsjö, E., Ebadi, H., and Karsberg, M. (2021). Exploring the assessment list for trustworthy AI in the context of advanced driver-assistance systems. *2021 IEEE/ACM 2nd International Workshop on Ethics in Software Engineering Research and Practice (SEthics)*, pp. 5–12.
+
+<a href="/assets/pdf/SEthics2021.pdf" class="download-btn" download><i class="fa fa-file-pdf-o"></i> Download PDF</a>
+<a href="/assets/bib/SEthics2021.bib" class="download-btn download-btn--bib" download><i class="fa fa-quote-right"></i> Download BibTeX</a>

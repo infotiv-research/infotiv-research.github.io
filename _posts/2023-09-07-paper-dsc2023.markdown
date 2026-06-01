@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Data Synthetization for Verification and Validation of Machine Learning Based Systems"
+date: 2023-09-07 00:00:00 +0300
+description: Introduces a tool-chain for generating synthetic datasets from the BERGE simulator to facilitate search-based testing of an ML-based traffic monitoring system. Presented at DSC 2023 Europe VR.
+img: publications/DSC2023-1.png
+tags: [machine-learning, simulation, software-testing, synthetic-data]
+type: paper
+category: publication
+venue: "DSC 2023 Europe VR — Driving Simulation Conference"
+authors: "Hamid Ebadi, Joakim Rosell, Thanh Bui, Lukáš Maršík, Jack Jensen, Martin Karsberg"
+pdf: DSC2023.pdf
+---
+
+**Authors:** Hamid Ebadi, Joakim Rosell, Thanh Bui, Lukáš Maršík, Jack Jensen, Martin Karsberg
+
+**Affiliations:** Infotiv AB · RISE Research Institutes of Sweden · CAMEA · BERGE
+
+**Venue:** DSC 2023 Europe VR, Antibes, France, 6–8 September 2023, pp. 1–5
+
+## Abstract
+
+The incorporation of machine learning (ML) components presents challenges to the verification and validation (V&V) process due to the inherent opacity of ML systems. This paper introduces a **tool-chain for generating synthetic datasets**, aimed at facilitating search-based testing on a traffic monitoring system that utilizes machine learning.
+
+The tool-chain is built around the BERGE graphical simulator and a scenario manipulator that generates synthetic data conforming to four key properties: relevant, complete, balanced, and accurate. The approach is demonstrated through an application on the CAMEA traffic control system, focusing on its ML-based License Plate (LP) detection component.
+
+**Keywords:** Simulator, machine-learning, verification and validation, traffic scenario, synthetic data
+
+## Citation
+
+> Ebadi, H., Rosell, J., Bui, T., Maršík, L., Jensen, J., and Karsberg, M. (2023). Data synthetization for verification and validation of Machine Learning based systems. *DSC 2023 Europe VR*, Antibes, France, pp. 1–5.
+
+<a href="/assets/pdf/DSC2023.pdf" class="download-btn" download><i class="fa fa-file-pdf-o"></i> Download PDF</a>
+<a href="/assets/bib/DSC2023.bib" class="download-btn download-btn--bib" download><i class="fa fa-quote-right"></i> Download BibTeX</a>

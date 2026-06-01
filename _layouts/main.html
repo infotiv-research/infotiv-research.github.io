@@ -6,30 +6,13 @@ layout: default
   <header>
     <div class="about">
       <div class="cover-author-image">
-        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/home.png" alt="{{site.author}}"></a>
-      </div>
-    </div>
-  </header>
-</aside>
-
-
-<aside class="sidebar">
-  <header>
-    <div class="about">
-      <div class="cover-author-image">
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
       <div class="author-name">{{site.author}}</div>
       <p>{{site.about-author}}</p>
-
-
-
     </div>
   </header>
   <footer>
-
-
-
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
       <ul>
@@ -64,8 +47,7 @@ layout: default
   </footer>
 </aside>
 
-
-
 <div class="content-box clearfix">
+  {% if page.tab %}{% include tab-bar.html %}{% endif %}
   {{ content }}
 </div>

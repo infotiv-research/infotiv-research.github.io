@@ -1,0 +1,68 @@
+---
+layout: post
+title: RITA (Robot In The Air) simulation
+date: 2026-01-01 00:00:00 +0300
+description: RITA (Robot In The Air) is a collaborative robot simulation framework for human-robot interaction in manufacturing environments, running ROS2, NVIDIA Isaac Sim, and motion planning with pick-and-place and dynamic obstacle avoidance.
+img: rita-sim.png
+tags: [robotics, ros2, simulation, manufacturing, isaac-sim]
+category: project
+---
+
+RITA (Robot In The Air) is a collaborative robot project developed as a use case for human-robot collaboration (HRC) within the manufacturing industry, specifically for Volvo Group Trucks Operations (GTO).
+
+This repository has three components:
+- ROS 2 container for robot control, MoveIt, and controllers.
+- Isaac Sim container for simulation.
+- cuMotion container planning.
+
+## Pick and Place
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JSuB3DH42jI" title="Isaac sim pick and place with table placement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3d-NdI3MTQc" title="RITA pick and place scenario" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Dynamic Obstacles
+
+Moving cylinder obstacle:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3uVEBaCn-WE" title="RITA moving cylinder obstacle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Moving humanoid obstacle:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/47wNTquTGOw" title="RITA moving humanoid obstacle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Hybrid Planner (cuRobo MotionGen + MPC)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Himwl89G8vw" title="RITA hybrid planner demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Features
+
+- Pick and place scenarios with cuMotion, cuRobo, OMPL, and hybrid planners
+- Dynamic obstacle avoidance with moving cylinder and humanoid obstacles
+- Human pose capture and replay using deep learning
+- 3D Gaussian Splatting asset support for photorealistic scenes
+- Automated testing via TESTING.md workflow
+
+## DevContainers
+
+Three VS Code DevContainers are provided:
+- **UR10 ROS2 DevContainer** — ROS 2 development and control stack
+- **IsaacSim DevContainer** — Isaac Sim runtime and ROS bridge
+- **UR10e cuMotion DevContainer** — cuMotion planner runtime
+
+## Motion Planners
+
+| Planner | Description |
+|---|---|
+| cumotion | GPU-accelerated motion planning via cuMotion |
+| curobo | GPU-based trajectory generation |
+| ompl | CPU-based open motion planning library |
+| hybrid | cuRobo MotionGen (global) + MPC (local reactive) |
+
+## Credits
+
+Master thesis project at Infotiv by Elias Wilsborn and Marcus Olsson, under team/tech lead Hamid Ebadi. Carried out within the EUREKA ITEA4 [ArtWork](https://www.vinnova.se/p/artwork---the-smart-and-connected-worker/) project.
+
+### Links
+
+[RITA-SIM GitHub repository](https://github.com/ebadi/RITA-SIM)

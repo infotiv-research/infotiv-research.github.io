@@ -1,0 +1,17 @@
+---
+layout: main
+tab: publications
+permalink: /publications/
+---
+{% assign pubs = site.posts | where: "category", "publication" | sort: "date" | reverse %}
+{% for post in pubs %}
+<article class="post">
+  {% if post.img %}
+    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append: post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+  {% endif %}
+  <div class="post-content">
+    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+    <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+  </div>
+</article>
+{% endfor %}
