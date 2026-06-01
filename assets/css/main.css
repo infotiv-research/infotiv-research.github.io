@@ -1541,3 +1541,179 @@ a.older-posts:hover, a.newer-posts:hover {
     max-width: 160px;
   }
 }
+
+/* =============================================
+   GLOBAL LINK COLORS
+   ============================================= */
+
+a {
+  color: #1a5276;
+  text-decoration: none;
+}
+a:hover {
+  color: #263959;
+  text-decoration: underline;
+}
+a:visited {
+  color: #1f4e79;
+}
+
+/* =============================================
+   POST / ARTICLE CONTENT TYPOGRAPHY
+   ============================================= */
+
+.wrap-content a {
+  color: #1a5276;
+  border-bottom: 1px solid rgba(26,82,118,0.3);
+  text-decoration: none;
+  transition: color 0.15s, border-color 0.15s;
+}
+.wrap-content a:hover {
+  color: #263959;
+  border-bottom-color: #263959;
+  text-decoration: none;
+}
+.wrap-content a:visited {
+  color: #1f4e79;
+}
+
+.wrap-content h2 {
+  color: #263959;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #e8ecf2;
+}
+
+.wrap-content h3 {
+  color: #2c4a6e;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.4rem;
+}
+
+.wrap-content h4 {
+  color: #3a5270;
+  font-size: 1rem;
+  font-weight: 700;
+  margin-top: 1.2rem;
+  margin-bottom: 0.3rem;
+}
+
+.wrap-content p {
+  line-height: 1.75;
+  margin-bottom: 1rem;
+  color: #444;
+}
+
+.wrap-content ul,
+.wrap-content ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.wrap-content li {
+  line-height: 1.7;
+  margin-bottom: 0.3rem;
+  color: #444;
+}
+
+.wrap-content ul li::marker {
+  color: #263959;
+}
+
+.wrap-content strong {
+  color: #263959;
+  font-weight: 700;
+}
+
+.wrap-content em {
+  color: #4a5568;
+}
+
+/* Inline code */
+.wrap-content code,
+.highlighter-rouge {
+  font-size: 0.875em;
+  background: #eef1f5;
+  color: #c0392b;
+  border: 1px solid #dde2ea;
+  border-radius: 4px;
+  padding: 0.15em 0.45em;
+}
+
+/* Code blocks */
+.wrap-content pre {
+  background: #1e2a3a;
+  color: #e2e8f0;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  font-size: 0.875rem;
+  line-height: 1.65;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+}
+
+.wrap-content pre code {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font-size: inherit;
+}
+
+/* Blockquotes */
+.wrap-content blockquote {
+  border-left: 4px solid #263959;
+  background: #f0f4f8;
+  padding: 14px 20px;
+  margin: 1.25rem 0;
+  border-radius: 0 6px 6px 0;
+  color: #4a5568;
+  font-style: italic;
+}
+
+.wrap-content blockquote p {
+  margin: 0;
+  color: inherit;
+}
+
+/* Images inside posts */
+.wrap-content img {
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  max-width: 100%;
+  height: auto;
+}
+
+/* Responsive iframes (YouTube etc.) */
+.wrap-content iframe {
+  max-width: 100%;
+  border-radius: 6px;
+  display: block;
+  margin: 1rem 0;
+}
+
+/* =============================================
+   TAB CONTENT LINKS (home / listing pages)
+   ============================================= */
+
+.tab-content a {
+  color: #1a5276;
+  text-decoration: none;
+}
+.tab-content a:hover {
+  color: #263959;
+  text-decoration: underline;
+}
+
+/* Post card title links override (keep navy, not blue) */
+.post .post-title a,
+.post .post-title a:visited {
+  color: #263959;
+  border-bottom: none;
+}
+
